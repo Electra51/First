@@ -1,17 +1,17 @@
-# 🌟 First Project
+# Blendify - Creative Digital Studio
 
-This is my **first ever project** built using **HTML**.  
+This is my **first ever project** built using **HTML**,**CSS**.  
 It marks the **beginning of my coding journey** and my exploration of web development.
 
-## 🚀 About
+## About
 - Simple static web page using only HTML.
 - Created to understand the basics of HTML structure and tags.
 - Hosted using **GitHub Pages**.
 
 ## 🌐 Live Preview
-🔗 [Visit the Project](https://electra51.github.io/First/)
+🔗 [Visit the Project](https://electra51.github.io/Blendify/)
 
-## 💡 What I Learned
+## What I Learned
 - How to create and structure an HTML page.
 - Basics of tags like `<head>`, `<body>`, `<h1>`, `<p>`, `<a>`, and more.
 - How to host a website on GitHub Pages.
