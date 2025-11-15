@@ -1,6 +1,6 @@
-# 🎨 Blendify - Creative Digital Agency Website
+# Blendify - Creative Digital Agency Website
 
-<div align="center">
+<div align="start">
   
   ![Blendify Banner](https://img.shields.io/badge/Blendify-Digital%20Agency-6C63FF?style=for-the-badge)
   [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github)](https://electra51.github.io/Blendify/)
@@ -14,14 +14,14 @@
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![App Screenshot](https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png)
 
 
-## ✨ Features
+## Features
 
-### 🎯 Core Functionality
+### Core Functionality
 - **Fully Responsive Design** - Seamless experience across all devices (mobile, tablet, desktop)
 - **Modern UI/UX** - Clean, professional interface with smooth animations
 - **Optimized Performance** - Fast loading times with vanilla JavaScript
@@ -29,13 +29,13 @@
 - **Accessibility Focused** - WCAG compliant with 92/100 accessibility score
 - **Interactive Elements** - Smooth scrolling, hover effects, and dynamic content
 
-### 🏆 Google Lighthouse Score
+### Google Lighthouse Score
 
 ```
-Performance:     95/100 ⚡
-Accessibility:   92/100 ♿
-Best Practices:  96/100 ✅
-SEO:            100/100 🎯
+Performance:     95/100 
+Accessibility:   92/100 
+Best Practices:  96/100 
+SEO:            100/100 
 ```
 
 <details>
@@ -51,7 +51,7 @@ SEO:            100/100 🎯
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Blendify/
 │   └── responsive.css      # Media queries
 ├── js/
 │   └── script.js           # JavaScript functionality
-├── images/
+├── assets/
 │   ├── hero/               # Hero section images
 │   ├── services/           # Service icons
 │   └── projects/           # Project thumbnails
