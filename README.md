@@ -16,9 +16,8 @@
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png" alt="Blendify Homepage" width="800px" />
-</div>
+![App Screenshot](https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png)
+
 
 ## ✨ Features
 
