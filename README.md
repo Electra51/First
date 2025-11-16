@@ -16,7 +16,7 @@
 
 ## Preview
 
-![App Screenshot](https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png)
+![App Screenshot]([https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png](https://i.ibb.co.com/2Yh7GDVS/Screenshot-from-2025-11-15-12-45-23.png))
 
 ## Features
 
