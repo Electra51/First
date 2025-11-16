@@ -18,10 +18,10 @@
 
 ![App Screenshot](https://i.ibb.co.com/sv1Dtr2r/Screenshot-from-2025-11-15-12-45-23.png)
 
-
 ## Features
 
 ### Core Functionality
+
 - **Fully Responsive Design** - Seamless experience across all devices (mobile, tablet, desktop)
 - **Modern UI/UX** - Clean, professional interface with smooth animations
 - **Optimized Performance** - Fast loading times with vanilla JavaScript
@@ -32,10 +32,10 @@
 ### Google Lighthouse Score
 
 ```
-Performance:     95/100 
-Accessibility:   92/100 
-Best Practices:  96/100 
-SEO:            100/100 
+Performance:     95/100
+Accessibility:   92/100
+Best Practices:  96/100
+SEO:            100/100
 ```
 
 <details>
@@ -63,6 +63,7 @@ SEO:            100/100
 </div>
 
 ### Tech Stack Details
+
 - **HTML5** - Semantic markup for better SEO and accessibility
 - **CSS3** - Modern styling with Flexbox, Grid, and custom properties
 - **Vanilla JavaScript** - Lightweight interactivity without frameworks
@@ -72,22 +73,22 @@ SEO:            100/100
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Blendify/
 │
-├── index.html              # Main HTML file
-├── css/
-│   ├── style.css           # Main stylesheet
-│   └── responsive.css      # Media queries
-├── js/
-│   └── script.js           # JavaScript functionality
+├── index.html
+├── style.css
+├── index.js
 ├── assets/
-│   ├── hero/               # Hero section images
-│   ├── services/           # Service icons
-│   └── projects/           # Project thumbnails
-└── README.md               # Documentation
+│   ├── bannar.jpg
+│   ├── branding.jpg
+│   ├── corporate-office.png
+│   ├── e-commerce.jpg
+│   ├── logo.svg
+│   ├── mobile-banking.jpg
+└── README.md
 ```
 
 ---
@@ -95,6 +96,7 @@ Blendify/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - Basic text editor (VS Code recommended)
 - [Optional] Live Server extension for development
@@ -102,11 +104,13 @@ Blendify/
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/electra51/Blendify.git
    ```
 
 2. **Navigate to the project directory**
+
    ```bash
    cd Blendify
    ```
@@ -127,21 +131,25 @@ live-server
 
 ---
 
-## 🎨 Sections Included
+## Sections Included
 
-### 🏠 Hero Section
+### Hero Section
+
 - Eye-catching headline with CTA buttons
 - Professional hero image
 - Smooth scroll to sections
 
-### 📊 Stats Section
+### Stats Section
+
 - Completed projects counter
 - Client satisfaction rate
 - Team members count
 - 24/7 support available
 
-### 💼 Services Section
+### Services Section
+
 Cards for 6 core services:
+
 - Web Design
 - Web Development
 - Mobile Apps
@@ -149,17 +157,20 @@ Cards for 6 core services:
 - Brand Strategy
 - UI/UX Design
 
-### 🖼️ Recent Projects
+### Recent Projects
+
 - Grid layout of 4 project showcases
 - Hover effects on project cards
 - Responsive image gallery
 
-### 📞 CTA Section
+### CTA Section
+
 - Compelling call-to-action
 - Consultation button
 - Gradient background design
 
-### 🦶 Footer
+### Footer
+
 - Company information
 - Service links
 - Support links
@@ -167,25 +178,28 @@ Cards for 6 core services:
 
 ---
 
-## 💡 Key Highlights
+## Key Highlights
 
 ### Performance Optimization
-- ⚡ **Minified CSS/JS** for faster loading
-- 🖼️ **Optimized Images** with proper compression
-- 🎯 **Lazy Loading** for below-the-fold content
-- 📦 **Minimal Dependencies** - No heavy frameworks
+
+- **Minified CSS/JS** for faster loading
+- **Optimized Images** with proper compression
+- **Lazy Loading** for below-the-fold content
+- **Minimal Dependencies** - No heavy frameworks
 
 ### Code Quality
-- ✅ **Clean Code** - Well-commented and organized
-- 📱 **Mobile-First Approach** - Responsive from the ground up
-- ♿ **Accessible** - ARIA labels and semantic HTML
-- 🔍 **SEO Friendly** - Proper meta tags and structure
+
+- **Clean Code** - Well-commented and organized
+- **Mobile-First Approach** - Responsive from the ground up
+- **Accessible** - ARIA labels and semantic HTML
+- **SEO Friendly** - Proper meta tags and structure
 
 ### Design Principles
-- 🎨 **Modern Aesthetics** - Contemporary design trends
-- 🌈 **Consistent Color Scheme** - Brand-aligned palette
-- 📐 **Proper Spacing** - Balanced whitespace
-- 🔤 **Typography Hierarchy** - Clear content structure
+
+- **Modern Aesthetics** - Contemporary design trends
+- **Consistent Color Scheme** - Brand-aligned palette
+- **Proper Spacing** - Balanced whitespace
+- **Typography Hierarchy** - Clear content structure
 
 ---
 
@@ -200,7 +214,7 @@ Large:      1440px+
 
 ---
 
-## 🌟 Future Improvements
+## Future Improvements
 
 - [ ] Add dark mode toggle
 - [ ] Implement form validation with backend integration
@@ -212,7 +226,7 @@ Large:      1440px+
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome! Here's how you can help:
 
@@ -224,13 +238,13 @@ Contributions are always welcome! Here's how you can help:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Electra51**
 
@@ -240,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Design inspiration from modern agency websites
 - Icons from Font Awesome
@@ -251,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### ⭐ Star this repository if you found it helpful!
+### Star this repository if you found it helpful!
 
 Made with ❤️ by Electra51
 
