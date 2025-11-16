@@ -249,9 +249,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Electra51**
 
-- Portfolio: [https://electra51.github.io/portfolio](your-portfolio)
+- Portfolio: [https://electra51.github.io/portfolio]([your-portfolio](https://nextjs-my-portfolio-electra51.vercel.app/))
 - GitHub: [@electra51](https://github.com/electra51)
-- LinkedIn: [Your LinkedIn](your-linkedin)
+- LinkedIn: [My LinkedIn]([your-linkedin](https://www.linkedin.com/in/safayet-nur/))
 
 ---
 
