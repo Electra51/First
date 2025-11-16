@@ -244,9 +244,9 @@ Contributions are always welcome! Here's how you can help:
 
 **Electra51**
 
-- Portfolio: [https://nextjs-my-portfolio-electra51.vercel.app/)]
+- Portfolio: https://nextjs-my-portfolio-electra51.vercel.app/
 - GitHub: [@electra51](https://github.com/electra51)
-- LinkedIn: [My LinkedIn]([your-linkedin](https://www.linkedin.com/in/safayet-nur/))
+- LinkedIn: https://www.linkedin.com/in/safayet-nur/
 
 ---
 
